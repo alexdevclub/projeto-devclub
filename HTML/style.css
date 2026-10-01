@@ -30,6 +30,14 @@ h1 {
   
 }
 
+h3 {
+  font-size: 30px;
+  color: #f4f8f8;
+  display: flex;
+  justify-content: center;
+  
+}
+
 ul {
   font-size: large;
   color: aliceblue;
